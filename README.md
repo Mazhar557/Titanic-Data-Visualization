@@ -326,9 +326,6 @@ The main approach for visualizing data on this grid is with the FacetGrid.map() 
 ## Conclusion
 This tutorial took you through the basics and various functions of Seaborn. It is specifically useful for people working on data analysis. After completing this tutorial, you are now at a moderate level of expertise from where you can take yourself to higher levels of expertise.
 
-This project demonstrates the power of Seaborn in visualizing and analyzing datasets. By leveraging various Seaborn plotting functions, we gain valuable insights into the Titanic dataset, helping us understand the demographics and survival patterns of its passengers.
-
-Stay updated, keep practicing, and best of luck with your data visualization endeavors!
 
 Stay update, practice, practice and practice to developpe data visualization skill.
 
